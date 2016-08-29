@@ -1,5 +1,5 @@
 # Add to Security Guide for Developers
-# if there is something wrong, Welcome to pull requests, thx
+# If there is something wrong, welcome to pull requests, thx!
 ## A practical security guide for web developers
 ### The intended audience
 
